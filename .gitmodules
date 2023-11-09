@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:Ksenia-Leonteva/Ksenia-Leonteva.github.io.git
+	branch = main
